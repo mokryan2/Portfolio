@@ -832,3 +832,9 @@ h1, h2, h3, h4, h5, h6 {
 .blockquote img {
   width: 40px;
   border-radius: 50%; }
+
+.skills{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  grid-gap: 15px;
+}
