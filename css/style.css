@@ -838,3 +838,9 @@ h1, h2, h3, h4, h5, h6 {
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
   grid-gap: 15px;
 }
+
+.skills li{
+  padding: 5px;
+  margin: 5px auto;
+  list-style-type: none;
+}
