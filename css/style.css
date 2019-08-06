@@ -839,7 +839,7 @@ h1, h2, h3, h4, h5, h6 {
   grid-gap: 15px;
 }
 
-.skills li p{
+.skills li, p{
   /* padding: 5px; */
   margin: 5px;
   list-style-type: none;
@@ -851,4 +851,4 @@ h1, h2, h3, h4, h5, h6 {
   transition: 1s;
   padding: .3em;
   cursor: pointer;
- }
+}
