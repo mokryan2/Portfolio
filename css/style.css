@@ -591,12 +591,13 @@ h1, h2, h3, h4, h5, h6 {
     z-index: 3;
     position: relative; }
     .site-blocks-cover .intro .heading h1 {
-      color: #fff; }
+      color: black; }
     @media (max-width: 991.98px) {
       .site-blocks-cover .intro .heading {
         margin-left: 0; } }
     .site-blocks-cover .intro .text p {
-      color: #fff; }
+      color: black;
+      font-weight: bold; }
     @media (max-width: 991.98px) {
       .site-blocks-cover .intro .text {
         padding-left: 0; } }
