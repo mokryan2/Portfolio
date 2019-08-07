@@ -541,6 +541,7 @@ h1, h2, h3, h4, h5, h6 {
       .site-blocks-cover .sub-text {
         color: #000; } }
   .site-blocks-cover .img-wrap {
+    opacity: .5;
     position: absolute;
     z-index: -1;
     width: calc(100%);
