@@ -855,3 +855,26 @@ h1, h2, h3, h4, h5, h6 {
   padding: .3em;
   cursor: pointer;
 }
+
+.button {
+	background-color:#ffffff;
+	-moz-border-radius:18px;
+	-webkit-border-radius:18px;
+	border-radius:18px;
+	border:2px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	font-size:17px;
+	padding:18px 39px;
+	text-decoration:none;
+  text-shadow:0px 1px 0px #ffffff;
+  font-weight: bold;
+}
+.button:hover {
+	background-color:#f6f6f6;
+}
+.button:active {
+	position:relative;
+	top:1px;
+}
+
